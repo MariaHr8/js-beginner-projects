@@ -1,0 +1,31 @@
+body {
+    background-color: bisque;
+    font-family: Snell Roundhand, cursive;
+}
+
+.header {
+    background-color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.header a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.content {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.content button {
+    font-family: Snell Roundhand, cursive;
+    width: 200px;
+    height: 30px;
+}
+
+.content span {
+    font-size: 30px;
+}

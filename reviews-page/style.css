@@ -1,0 +1,75 @@
+body {
+    background-color: whitesmoke;
+    font: 1.0em "Fira Sans", serif;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    font: italic bold 1.2em "Fira Sans", serif;
+    font-size: 60px;
+    color: rgb(29, 27, 27);
+    margin-bottom: 0px;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    max-width: 150px;
+    height: 150px;
+}
+
+.img-container {
+    text-align: center;
+    display: inline-block;
+    justify-content: center;
+    background-color: antiquewhite;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    box-shadow: 10px -7px 0px rgb(245, 207, 160);
+}
+
+.review {
+    text-align: center;
+    background-color: #fff;
+    height: 350px;
+    padding-top: 30px;
+    margin: 0px 30px;
+    box-shadow: 0px 0px 20px #999;
+}
+
+.review p {
+    font-size: 15px;
+    margin: 0px;
+}
+
+.jobtitle {
+    letter-spacing: 2px;
+    color: rgb(241, 205, 160);
+    font-weight: bolder;
+}
+
+.description {
+    color: rgb(194, 163, 126);
+    letter-spacing: 0px;
+    padding: 0px 60px;
+}
+
+hr {
+    border: 4px solid rgb(245, 207, 160);
+    border-radius: 5px;
+    width: 200px;
+}
+
+h1 {
+    margin: 0px;
+}
+
+.buttons button {
+    padding: 0;
+    border: none;
+    background: none;
+    font-size: 20px;
+}
