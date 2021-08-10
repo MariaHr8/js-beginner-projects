@@ -1,3 +1,3 @@
 # js-beginner-projects
 
-A folder containing some Javascript projects I created to learn this language.
+This is a container for some Javascript mini-projects I created to learn this language.
